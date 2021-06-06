@@ -6,3 +6,4 @@ How to run: Download all the files and run it on Android Studio. Make sure you h
 
 Running of app:
 
+![Listview-design](https://user-images.githubusercontent.com/54879324/120938222-2dbfd580-c72b-11eb-8f6e-25c7b868414a.jpg)
