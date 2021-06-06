@@ -2,6 +2,17 @@
 
 Description: Contact storage application in Android with java using list view and recycler view.
 
+Functionalities:
+
+-Login
+-SignUp
+-Add contact
+-Delete Contact
+-View Contact
+-Logout
+
+User stays in until the he/she is logged out even after closing the app.
+
 How to run: Download all the files and run it on Android Studio. Make sure you have an emulator or android phone connected.
 
 Running of app:
